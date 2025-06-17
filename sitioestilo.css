@@ -1,3 +1,4 @@
+@media (max-width: 768px){
 *{
 		margin: 36px;
 		padding: 0;
@@ -109,3 +110,4 @@ ul#menuPrincipal a#current{
     	background-color: #fcacf9;
     	border-radius: 10px;
     }
+}
