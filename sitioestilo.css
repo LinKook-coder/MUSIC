@@ -11,7 +11,7 @@
    background: -o-linear-gradient(orange, #FA58D0);
 	}
 		.parallax{
-			background-image: url("../imagen/gfr.jpg");
+			background-image: url("gfr.jpg");
 			min-height: 900px;
 			background-attachment: fixed;
 			background-position: center;
@@ -19,7 +19,7 @@
 			background-size: cover;
 		}
 			.p{
-			background-image: url("../imagen/vp.jpg");
+			background-image: url("vp.jpg");
 			min-height: 900px;
 			background-attachment: fixed;
 			background-position: center;
@@ -27,7 +27,7 @@
 			background-size: cover;
 		}
 		.atl{
-			background-image: url("../imagen/alltm.jpg");
+			background-image: url("alltm.jpg");
 			min-height: 900px;
 			background-attachment: fixed;
 			background-position: center;
@@ -36,7 +36,7 @@
 
 		}
 		.am{
-			background-image: url("../imagen/arctic-monkeys.jpg");
+			background-image: url("arctic-monkeys.jpg");
 			min-height: 900px;
 			background-attachment: fixed;
 			background-position: center;
